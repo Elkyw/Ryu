@@ -1,4 +1,4 @@
-# RyuKaze
+# Ryu
 
 A python based subdomain finder and port scanner.
 
@@ -6,8 +6,8 @@ A python based subdomain finder and port scanner.
 
 To deploy this project run
 ```bash
-  cd sc4nit
+  cd Ryu
 ```
 ```bash
-  python3 sc4nit.py
+  python3 ryu.py
 ```
